@@ -2,7 +2,7 @@
 
 Tutorial para obter um sistema operacional Arch Linux com ambiente desktop LXDE (GTK2) de maneira fácil.
 
-##Instruções
+## Instruções
 
 Instalar [Arch Linux Gui](https://archlinuxgui.in/download.html) baseado no XFCE com as modificações da equipe AGL. 
 
