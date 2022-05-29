@@ -3,7 +3,7 @@ set -e
 
 echo "--> Instalar LXDE <--"
 echo ""
-sudo pacman -Syu lxde obconf xfce4-power-manager network-manager-gnome deepin-icon-theme
+sudo pacman -Syu lxde obconf
 
 echo "--> Remover XFCE e etc <--"
 echo ""
@@ -20,4 +20,4 @@ sudo sh -e "echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf"
 
 echo "--> Instalar pacotes básicos <--"
 echo ""
-sudo pacman -Syu grub-customizer code qbittorrent vlc gimp inkscape gedit gparted gnome-screenshot obs-studio tor-browser unrar unzip google-chrome wps-office realvnc-vnc-viewer discord 
+sudo pacman -Syu grub-customizer code qbittorrent vlc gimp inkscape gedit gparted gnome-screenshot obs-studio tor-browser unrar unzip google-chrome wps-office realvnc-vnc-viewer discord xfce4-power-manager network-manager-gnome deepin-icon-theme 
