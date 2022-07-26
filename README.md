@@ -59,3 +59,9 @@ Instala os seguintes pacotes:
 - wps-office
 - realvnc-vnc-viewer
 - discord 
+
+## Personalização
+
+Você pode personalizar o ambiente de desktop da maneira que achar melhor. Eu gosto de personalizar o meu da seguinte maneira:
+
+![Captura de Tela](https://raw.githubusercontent.com/campagnani/ArchLXDE/main/archlxde.png)
